@@ -7,7 +7,7 @@ To unbrick an account, go to [UnScrew.Online](https://unscrew.online/) and selec
 
 Alternatively, you can send a POST request to UnScrew's API via your shell or in a script of your own! Formatting for the POST request is:
 
-`curl -X POST -d userAndPass=<USERNAME:PASSWORD> https://unscrew.online`
+`curl -X POST -d userAndPass=USERNAME:PASSWORD https://unscrew.online`
 
 The possible results are as follows:
 
